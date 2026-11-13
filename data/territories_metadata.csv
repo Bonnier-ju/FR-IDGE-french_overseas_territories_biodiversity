@@ -1,0 +1,16 @@
+﻿territory_code;territory;territory_fr;territory_short_fr;region;basin;area_km2;area_comparable;admin_status;eu_status;endemism_area
+GF;Guyane;Guyane;Guyane;Guyane;Atlantique;83534;TRUE;DROM;RUP;Plateau des Guyanes
+GUA;Guadeloupe;Guadeloupe;Guadeloupe;Caraibes;Atlantique;1628;TRUE;DROM;RUP;Petites Antilles
+MAR;Martinique;Martinique;Martinique;Caraibes;Atlantique;1128;TRUE;DROM;RUP;Petites Antilles
+SM;Saint-Martin;Saint-Martin;St-Martin;Caraibes;Atlantique;53;TRUE;COM;RUP;Petites Antilles
+SB;Saint-Barthelemy;Saint-Barthélemy;St-Barthélemy;Caraibes;Atlantique;21;TRUE;COM;PTOM;Petites Antilles
+SPM;Saint-Pierre-et-Miquelon;Saint-Pierre-et-Miquelon;St-Pierre-et-Miquelon;Atlantique NO;Atlantique;242;TRUE;COM;PTOM;
+MAY;Mayotte;Mayotte;Mayotte;Ocean Indien;Indien;374;TRUE;DROM;RUP;Archipel des Comores
+REU;La Reunion;La Réunion;La Réunion;Ocean Indien;Indien;2512;TRUE;DROM;RUP;Mascareignes
+EPA;Iles Eparses;Îles Éparses;Îles Éparses;Ocean Indien;Indien;44;TRUE;TAAF;PTOM;
+SA;Iles subantarctiques (Kerguelen, Crozet, Saint-Paul et Amsterdam);Îles subantarctiques;Îles subantarctiques;Austral;Austral;7628;TRUE;TAAF;PTOM;South Indian Ocean Province
+TA;Terre Adelie;Terre Adélie;Terre Adélie;Austral;Austral;432000;FALSE;TAAF;PTOM;
+NC;Nouvelle-Caledonie;Nouvelle-Calédonie;Nouvelle-Calédonie;Pacifique;Pacifique;18575;TRUE;sui generis;PTOM;
+WF;Wallis-et-Futuna;Wallis-et-Futuna;Wallis-et-Futuna;Pacifique;Pacifique;142;TRUE;COM;PTOM;Fidji / WF / Samoa / Tonga
+PF;Polynesie francaise;Polynésie française;Polynésie fr.;Pacifique;Pacifique;3521;TRUE;COM;PTOM;Polynésie fr. / Îles Cook
+CLI;Clipperton;Clipperton;Clipperton;Pacifique;Pacifique;1.7;TRUE;Domaine de l'Etat;Non classe;

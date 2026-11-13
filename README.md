@@ -1,11 +1,11 @@
-# FR-IDGE — Biodiversity of the French overseas territories
+# FR-IDGE - Biodiversity of the French overseas territories
 
 Analyses of the documented biodiversity of the 15 French overseas territories,
 carried out for the overseas component of **FR-IDGE**, a research-action project
-(INRAE – OFB, 2026–2029) developing the reporting of the genetic diversity
+(INRAE - OFB, 2026–2029) developing the reporting of the genetic diversity
 indicators of the Kunming-Montreal Global Biodiversity Framework:
 
-- **Ne > 500** (A.4) — proportion of populations within species with an
+- **Ne > 500** (A.4) - proportion of populations within species with an
   effective population size above 500;
 - **Maintained populations** (A.CY.22) — proportion of populations maintained
   within species.
